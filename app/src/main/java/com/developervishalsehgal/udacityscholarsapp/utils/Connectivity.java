@@ -7,6 +7,8 @@ import android.net.NetworkInfo;
 /**
  * Connectivity Utility class. Contains all utility methods related to connection
  */
+
+/// Learning from Vishal
 public class Connectivity {
 
     public static Boolean isNetworkAvailable(Context context) {
