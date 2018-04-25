@@ -10,6 +10,7 @@ import android.net.NetworkInfo;
 
 /// Learning from Vishal
     //again
+    // its so fun
 public class Connectivity {
 
     public static Boolean isNetworkAvailable(Context context) {
