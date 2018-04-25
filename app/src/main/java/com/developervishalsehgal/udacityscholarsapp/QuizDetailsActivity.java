@@ -3,6 +3,8 @@ package com.developervishalsehgal.udacityscholarsapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+// practcice
+
 public class QuizDetailsActivity extends AppCompatActivity {
 
     @Override
